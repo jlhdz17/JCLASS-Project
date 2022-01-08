@@ -7,7 +7,7 @@ function confirmlink684(linkname) {
 
 
  var myname = "Jorge Hernandez"; 
- var message2 = "cs190 Javascript Lab"; 
+ var message2 = "cs190 Javascript Lab 2"; 
  var code = "434"
  
  function displayinfo257 ( ) {  
