@@ -13,7 +13,6 @@ function confirmlink684(linkname) {
  function displayinfo257 ( ) {  
         alert ( "My name is " + myname +  "\n I am currently attempting the " + message2 + "\nOh now whats happening..." + code ); 
  } 
-<<<<<<< HEAD
 
 
 
@@ -37,5 +36,3 @@ function displayspecial410() {
    }
 
 }
-=======
->>>>>>> cf3de56eecec72cea7f1d54287fe4359a7f3a81f
